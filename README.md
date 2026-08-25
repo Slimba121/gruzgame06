@@ -2,7 +2,7 @@
 
 Base App mini app for **kitasit** (Next.js + wagmi + Farcaster Mini App SDK).
 
-## Config (hardcoded, no Vercel env)
+## Config (hardcoded, no Vercel env)f
 
 | Item | Value |
 |------|--------|
